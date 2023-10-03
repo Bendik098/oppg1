@@ -1,1 +1,2 @@
-# oppg1
+## introduksjon
+Hei velkommen til mitt spill.
